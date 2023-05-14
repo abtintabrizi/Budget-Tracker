@@ -1,0 +1,53 @@
+* {
+  font-family: 'Open Sans';
+  font-style: normal;
+
+}
+
+body {
+  background-color: lightcyan;
+}
+
+.budgetForm, .app {
+  text-align: center;
+}
+
+.list, .budgetForm, .budgetOverview, .chart {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+Pie {
+  width: 25%;
+  height: 25%;
+}
+
+.budgetForm input {
+  width: 150px;
+  height: 30px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+.controls {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.hr1 {
+  width: 75%;
+  height: 3px;
+  color:rgba(0,0,0,0);
+  background-color:black
+}
+
+.form {
+  width: 100%;
+}
+
+.action {
+  margin-left: 10px;
+}

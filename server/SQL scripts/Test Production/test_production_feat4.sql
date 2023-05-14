@@ -1,0 +1,1 @@
+SELECT type, SUM(amount) AS amount FROM budgetplannerdb.expenses WHERE budgetId=3 GROUP BY type;

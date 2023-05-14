@@ -1,0 +1,4 @@
+budgetId, userId, name, balance, budgetLimit, date, note
+1, 1, "food", 300.00, 500.00, '2022-10-13', "note"
+2, 1, "groceries", 200.00, 500.00, '2022-10-13', "note"
+3, 1, "clothing", 400.00, 500.00, '2022-10-13', "note"

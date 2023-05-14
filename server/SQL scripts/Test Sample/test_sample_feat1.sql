@@ -1,0 +1,1 @@
+SELECT * FROM budgetplannerdb.budgets ORDER BY date
